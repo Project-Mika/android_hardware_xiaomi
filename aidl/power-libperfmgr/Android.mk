@@ -35,7 +35,6 @@ LOCAL_SHARED_LIBRARIES := \
     pixel-power-ext-V1-ndk_platform
 
 LOCAL_SRC_FILES := \
-    DisplayLowPower.cpp \
     InteractionHandler.cpp \
     Power.cpp \
     PowerExt.cpp \
